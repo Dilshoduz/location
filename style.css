@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0c;
+}
+
+body {
+    background-color: #111;
+}
+
+.container {
+    color: aqua;
+    margin-left: 300px;
+}
+
+.container h1 {
+    font-size: 3em;
+    font-style: italic;
+}
+
+.container h2 {
+    font-size: 4em;
+    font-style: italic;
+}
+
+.location {
+    color: white;
+    margin-left: 300px;
+}
+
+.location h2 {
+    font-size: 6em;
+    font-style: italic;
+}
